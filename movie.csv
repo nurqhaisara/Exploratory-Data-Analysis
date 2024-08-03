@@ -1,0 +1,479 @@
+﻿color,director_name,num_critic_for_reviews,duration,gross,genres,movie_title,num_voted_users,plot_keywords,num_user_for_reviews,language,country,content_rating,budget,title_year,imdb_score
+ Black and White,Elia Kazan,94,125,,Drama,A Streetcar Named DesireÂ ,78454,brother in law sister in law relationship|expectant father|histrionic personality disorder|middle aged woman|off screen rape,233,English,USA,PG,1800000,1951,8
+ Black and White,Stanley Kubrick,192,95,,Comedy,Dr. Strangelove or: How I Learned to Stop Worrying and Love the BombÂ ,342585,bomber|doomsday|general|u.s. president|war room,839,English,USA,PG,1800000,1964,8.5
+Color,Sergio Leone,164,145,,Western,Once Upon a Time in the WestÂ ,216005,gang|gun|harmonica|killing|woman in bathtub,565,English,Italy,PG-13,5000000,1968,8.6
+Color,Edward Dmytryk,10,113,,Western,ShalakoÂ ,1978,bare chested male bondage|european|female frontal nudity|topless woman|war paint,41,English,UK,PG,1455000,1968,5.5
+Color,Bernardo Bertolucci,120,106,,Drama,The ConformistÂ ,17813,fascist|gun|italy|nudity|sexuality,101,Italian,Italy,R,750000,1970,8.1
+Color,Alfred Hitchcock,110,116,,Thriller,FrenzyÂ ,30982,penknife|police|rape|serial killer|united kingdom,199,English,UK,R,2000000,1972,7.5
+ Black and White,Woody Allen,50,88,,Comedy,Everything You Always Wanted to Know About Sex * But Were Afraid to AskÂ ,31077,aphrodisiac|court jester|jester|queen|written and directed by cast member,78,English,USA,R,2000000,1972,6.8
+Color,Ingmar Bergman,76,91,,Drama,Cries & WhispersÂ ,19964,dying|love|mansion|selfishness|turn of the century,197,Swedish,Sweden,R,400000,1972,8.2
+Color,William Friedkin,304,132,204565000,Horror,The ExorcistÂ ,284252,demonic possession|exorcism|exorcist|loss of innocence|priest,1058,English,USA,R,8000000,1973,8
+ Black and White,Mel Brooks,129,106,86300000,Comedy,Young FrankensteinÂ ,112671,assistant|castle|experiment|frankenstein's monster|scientist,315,English,USA,PG,2800000,1974,8
+Color,Milos Forman,149,133,112000000,Drama,One Flew Over the Cuckoo's NestÂ ,680041,1960s|escape|mental institution|nurse|sexuality,760,English,USA,R,4400000,1975,8.7
+Color,Jack Smight,41,91,,Sci-Fi,Damnation AlleyÂ ,3701,cockroach|desert|ghost town|giant spider|travel,71,English,USA,PG,17000000,1977,5.2
+Color,John Boorman,82,118,,Horror,Exorcist II: The HereticÂ ,16294,demon|exorcism|locust|priest|repressed memory,252,English,USA,R,14000000,1977,3.7
+Color,Fred Zinnemann,38,117,,Drama,JuliaÂ ,6454,1930s|female protagonist|nazi|romantic friendship|writer,44,English,USA,PG,7840000,1977,7.4
+Color,Mel Brooks,55,94,,Comedy,High AnxietyÂ ,15115,belldon's hysteria|high anxiety|hitchcockian|murder|parody,102,English,USA,PG,3400000,1977,6.7
+Color,John Landis,82,83,,Comedy,The Kentucky Fried MovieÂ ,13915,fake commercial|fake newscast|fake trailer|parody|spoof,109,English,USA,R,650000,1977,6.5
+Color,Norman Jewison,20,145,,Drama,F.I.S.T.Â ,5561,1930s|driving through a gate|funeral|senator|trade union,35,English,USA,PG,11000000,1978,6.4
+Color,Sharron Miller,8,79,,Horror,Alien ZoneÂ ,440,affair|child murderer|mortician|strangulation|supernatural power,21,English,USA,PG,350000,1978,4.1
+Color,John Landis,94,109,141600000,Comedy,Animal HouseÂ ,90177,academic probation|camera shot of feet|fraternity|school expulsion|smashing a guitar,257,English,USA,R,3000000,1978,7.6
+Color,Walter Hill,52,100,,Western,The Long RidersÂ ,7322,bank|breasts|famous score|last man standing|revenge,78,English,USA,R,10000000,1980,7.1
+Color,Robert Redford,62,124,54800000,Drama,Ordinary PeopleÂ ,35130,choir|death|friend|suicide|therapy,283,English,USA,R,6000000,1980,7.8
+Color,Dennis Hopper,24,94,,Drama,Out of the BlueÂ ,1599,explosion|hitchhiking|punk|trauma|truck driver,27,English,Canada,R,2200000,1980,7.2
+Color,Jim Abrahams,134,88,83400000,Comedy,Airplane!Â ,160281,air traffic controller|airplane|airport|pilot|spoof,427,English,USA,PG,3500000,1980,7.8
+Color,Steve Rash,13,98,8500000,Comedy,Under the RainbowÂ ,2061,assassin|hotel|japanese tourist|secret service|wizard of oz,34,English,USA,PG,20000000,1981,5.4
+Color,Mel Brooks,48,92,,Comedy,History of the World: Part IÂ ,36559,french revolution|old testament|part of an unfinished series|reference to john wayne|roman emperor,131,English,USA,R,11000000,1981,6.9
+Color,Bob Clark,75,94,105500000,Comedy,Porky'sÂ ,31260,female full frontal nudity|revenge|school|sheriff|virginity,152,English,Canada,R,4000000,1981,6.2
+Color,Joe Dante,161,91,17986000,Horror,The HowlingÂ ,22773,1980s|forest|lycanthrope|shapeshifting|werewolf transformation,195,English,USA,R,1000000,1981,6.6
+Color,Mel Brooks,48,92,,Comedy,History of the World: Part IÂ ,36559,french revolution|old testament|part of an unfinished series|reference to john wayne|roman emperor,131,English,USA,R,11000000,1981,6.9
+Color,Sidney Lumet,79,129,54000000,Drama,The VerdictÂ ,26310,archdiocese|court|hospital|lawyer|malpractice,154,English,USA,R,16000000,1982,7.8
+Color,John Landis,71,116,90400000,Comedy,Trading PlacesÂ ,102895,interracial relationship|poverty|prostitute|scam|stock market,159,English,USA,R,,1983,7.5
+Color,Hugh Wilson,45,96,81200000,Comedy,Police AcademyÂ ,87739,misfit|police|police academy|police cadet|police officer,133,English,USA,R,4500000,1984,6.7
+Color,Steven Spielberg,70,154,94175854,Drama,The Color PurpleÂ ,60988,book strap|girl|racial discrimination|racial tension|stereotype,199,English,USA,PG-13,15000000,1985,7.8
+Color,Clint Eastwood,38,115,41400000,Western,Pale RiderÂ ,39451,gold|miner|preacher|prospector|sheriff,138,English,USA,R,6900000,1985,7.3
+Color,Woody Allen,64,88,14792779,Comedy,Radio DaysÂ ,24256,beach|cigarette girl|radio|woman holding a baby|working class,91,English,USA,PG,16000000,1987,7.6
+Color,Robert Townsend,21,81,5228617,Comedy,Hollywood ShuffleÂ ,2770,actor|african american|dream|two word title|written and directed by cast member,32,English,USA,R,100000,1987,7
+Color,Barry Levinson,100,133,172825435,Drama,Rain ManÂ ,383784,buick|convertible|last will and testament|savant|travel,331,English,USA,R,25000000,1988,8
+Color,James Bridges,28,107,16118077,Drama,"Bright Lights, Big CityÂ ",5817,estranged wife|fashion show|magazine|new york city|writer,37,English,USA,R,25000000,1988,5.6
+Color,Martin Scorsese,114,164,8373585,Drama,The Last Temptation of ChristÂ ,39680,carpenter|exorcism|faith|reference to jesus christ|temptation,308,English,USA,R,7000000,1988,7.6
+Color,Oliver Stone,40,110,3468572,Drama,Talk RadioÂ ,10073,listener|neo nazi|radio|radio station|radio talk show,78,English,USA,R,4000000,1988,7.3
+Color,John Carl Buechler,110,88,19170001,Horror,Friday the 13th Part VII: The New BloodÂ ,21359,death|jason voorhees|massacre|slaughter|telekinesis,270,English,USA,R,2800000,1988,5.3
+Color,Spike Lee,103,120,27545445,Drama,Do the Right ThingÂ ,59524,black militant|frustration|pizza|pizza parlor|pizzeria,418,English,USA,R,6500000,1989,7.9
+Color,Steven Soderbergh,58,100,24741700,Drama,"Sex, Lies, and VideotapeÂ ",37785,affair|interview|marriage|sex|videotape,95,English,USA,R,1200000,1989,7.2
+Color,Michael Moore,40,91,6706368,Documentary,Roger & MeÂ ,22800,factory|flint michigan|general motors|michigan|quest,133,English,USA,R,160000,1989,7.5
+Color,Dario Argento,76,120,349618,Horror,Two Evil EyesÂ ,4302,black cat|cat|evil|photographer|undead,45,English,Italy,R,9000000,1990,6.1
+,Pece Dingo,1,94,,Horror,Midnight CabaretÂ ,47,cigarette smoking|death|devil|nightmare|satanic cult,4,English,USA,R,,1990,4.5
+Color,Gus Van Sant,63,104,6401336,Drama,My Own Private IdahoÂ ,36996,friend|hustler|italy|narcolepsy|traveling,153,English,USA,R,2500000,1991,7.1
+Color,Tim Burton,153,126,162831698,Action,Batman ReturnsÂ ,215255,box office hit|dc comics|gotham|mayor|penguin,610,English,USA,PG-13,80000000,1992,7
+Color,Richard Donner,10,114,4651977,Drama,Radio FlyerÂ ,10410,father son relationship|physical abuse|radio flyer|stepfather|stepfather stepson relationship,71,English,USA,PG-13,35000000,1992,6.9
+Color,Jonathan Demme,68,125,77324422,Drama,PhiladelphiaÂ ,178731,aids|city name in title|gay|homophobia|lawyer,261,English,USA,PG-13,26000000,1993,7.7
+Color,Jon Hess,19,87,1200000,Action,Excessive ForceÂ ,922,exercise bicycle|face in food|police|police brutality|policeman,23,English,USA,R,3000000,1993,5.1
+Color,Richard Linklater,152,102,7993039,Comedy,Dazed and ConfusedÂ ,120036,football|hazing|high school|last day of school|pledge,408,English,USA,R,6900000,1993,7.7
+Color,Peter Farrelly,84,113,127175354,Comedy,Dumb & DumberÂ ,288451,briefcase full of money|character repeating someone else's dialogue|character says i love you|friendship|reference to cinderella,438,English,USA,PG-13,16000000,1994,7.3
+Color,Tom Shadyac,61,78,72217000,Comedy,Ace Ventura: Pet DetectiveÂ ,216486,detective|dolphin|mascot|nudity|stupidity,242,English,USA,PG-13,12000000,1994,6.9
+Color,Hart Bochner,15,79,4350774,Comedy,PCUÂ ,10476,college|high school senior|meat|protest|university,52,English,USA,PG-13,8000000,1994,6.5
+ Black and White,Kevin Smith,136,102,3151130,Comedy,ClerksÂ ,181749,clerk|friend|hockey|video|video store,615,English,USA,R,230000,1994,7.8
+Color,Paul Verhoeven,181,131,20302961,Drama,ShowgirlsÂ ,49874,cult film|lap dance|lap dancing|stripper|striptease,450,English,France,NC-17,45000000,1995,4.6
+Color,Jonathan Lynn,23,93,30400000,Comedy,Sgt. BilkoÂ ,17810,greenland|military|revenge|soldier|u.s. soldier,73,English,USA,PG,39000000,1996,5.7
+Color,Hugh Wilson,50,103,105444419,Comedy,The First Wives ClubÂ ,31817,cult film|female therapist|revenge|revenge motive|therapy session,117,English,USA,PG,26000000,1996,6.2
+Color,Jerry Zaks,45,98,12782508,Drama,Marvin's RoomÂ ,20163,house|leukemia|mental institution|nursing home|transplant,71,English,USA,PG-13,23000000,1996,6.7
+Color,Kenneth Branagh,85,150,4414535,Drama,HamletÂ ,30618,classic literature|denmark|funeral|madness|prince,224,English,UK,PG-13,18000000,1996,7.8
+Color,David O. Russell,50,92,14891000,Comedy,Flirting with DisasterÂ ,15088,adoption|armpit fetish|mistaken identity|new mexico|overalls,105,English,USA,R,7000000,1996,6.8
+Color,Billy Bob Thornton,104,148,24475416,Drama,Sling BladeÂ ,72443,friend|mental institution|murder|repair shop|small town,309,English,USA,R,890000,1996,8
+Color,Christopher Guest,50,84,2892582,Comedy,Waiting for GuffmanÂ ,22697,amateur theater|dentist|missouri|small town|travel agent,202,English,USA,R,4000000,1996,7.6
+Color,Danny Boyle,134,94,16501785,Drama,TrainspottingÂ ,469561,drug culture|drugs|filthy toilet|heroin addict|heroin withdrawal,514,English,UK,R,3500000,1996,8.2
+Color,Kenneth Branagh,85,150,4414535,Drama,HamletÂ ,30618,classic literature|denmark|funeral|madness|prince,224,English,UK,PG-13,18000000,1996,7.8
+Color,Joel Schumacher,183,125,107285004,Action,Batman & RobinÂ ,189855,butler|critically bashed|cure|freeze|gotham,1018,English,USA,PG-13,125000000,1997,3.7
+Color,Frank Oz,83,90,63826569,Comedy,In & OutÂ ,32416,academy award|gay|high school|reporter|teacher,138,English,USA,PG-13,35000000,1997,6.3
+Color,Woody Allen,104,96,10569071,Comedy,Deconstructing HarryÂ ,35586,marriage|novelist|panties pulled down|writer's block|writing,131,English,USA,R,20000000,1997,7.4
+Color,Ang Lee,124,112,7837632,Drama,The Ice StormÂ ,46396,ice|ice storm|storm|thanksgiving|virgin,287,English,USA,R,18000000,1997,7.5
+Color,Paul Thomas Anderson,153,155,26384919,Drama,Boogie NightsÂ ,189032,1970s|adult entertainment industry|nightclub|porn industry|san fernando valley california,560,English,USA,R,15000000,1997,7.9
+Color,Lionel C. Martin,11,93,13960203,Comedy,How to Be a PlayerÂ ,2301,breaking the fourth wall|doorman|friend|party|sex,15,English,USA,R,,1997,5.3
+Color,Gus Van Sant,161,126,138339411,Drama,Good Will HuntingÂ ,604904,friend|genius|janitor|loss of wife|professor,682,English,USA,R,10000000,1997,8.3
+Color,Arthur Hiller,29,86,15447,Comedy,An Alan Smithee Film: Burn Hollywood BurnÂ ,2971,box office flop|critically bashed|director|hollywood|mockumentary,85,English,USA,R,10000000,1997,3.5
+Color,Robert Duvall,95,134,20733485,Drama,The ApostleÂ ,11622,church|louisiana|minister|preacher|texas,157,English,USA,PG-13,5000000,1997,7.2
+Color,Kasi Lemmons,31,109,14821531,Drama,Eve's BayouÂ ,6915,doctor|louisiana|secret|title directed by female|witchcraft,209,English,USA,R,6000000,1997,7.3
+Color,Atom Egoyan,120,112,4306697,Drama,The Sweet HereafterÂ ,26720,anger|bus|child|lawyer|school,196,English,Canada,R,5000000,1997,7.7
+Color,Victor Nunez,61,113,9054736,Drama,Ulee's GoldÂ ,5744,beekeeper|bound and gagged|dysfunctional family|man with glasses|tied to a chair,57,English,USA,R,2700000,1997,7.1
+Color,Christopher Scott Cherot,25,84,2301777,Comedy,Hav PlentyÂ ,819,friend|new year's eve|screwball|self discovery|social differences,36,English,USA,R,650000,1997,6.5
+Color,Roger Nygard,43,86,617172,Documentary,TrekkiesÂ ,4407,autograph|dentist|outer space|star trek|telephone call,75,English,USA,PG,375000,1997,7
+Color,Steven Zaillian,110,115,56702901,Drama,A Civil ActionÂ ,23302,1980s|law firm|lawsuit|lawyer|toxic waste,181,English,USA,PG-13,60000000,1998,6.5
+Color,Carl Franklin,64,127,23209440,Drama,One True ThingÂ ,9283,cancer|job|love|new york|professor,112,English,USA,R,30000000,1998,7
+Color,Alan Cohn,37,96,15062898,Comedy,Dead Man on CampusÂ ,11729,college|college roommate|party|roommate|student,106,English,USA,R,14000000,1998,6
+Color,Bob Saget,32,82,9975684,Comedy,Dirty WorkÂ ,20033,cult film|gambling debt|job|off screen murder|revenge,117,English,Canada,PG-13,13000000,1998,6.4
+Color,John Turturro,36,119,836641,Drama,IlluminataÂ ,1402,critic|new york|new york city|playwright|theater critic,40,English,Spain,R,,1998,6.2
+Color,Alex Zamm,12,95,306715,Comedy,Chairman of the BoardÂ ,5143,box office flop|company|invention|roommate|surfer,62,English,USA,PG-13,10000000,1998,2.3
+Color,Gary Sinyor,12,94,69582,Comedy,Stiff Upper LipsÂ ,867,class conflict|edwardian era|england|sexual awakening|spoof,21,English,UK,R,,1998,6.4
+Color,Morgan J. Freeman,31,90,99147,Drama,Desert BlueÂ ,1884,cola|desert|ice cream cone|teenage girl|vomiting,28,English,USA,R,2000000,1998,6.2
+Color,Michael Martin,19,93,10305534,Comedy,I Got the Hook UpÂ ,1721,friend|obscenity|scam|vacant lot|van,38,English,USA,R,3500000,1998,3.9
+Color,Kirk Jones,94,91,24788807,Comedy,Waking Ned DevineÂ ,21245,dead body|death|lottery|small town|village,213,English,UK,PG,3000000,1998,7.4
+Color,Walter Salles,71,113,5595428,Drama,Central StationÂ ,28951,brazil|letter|rio de janeiro brazil|sertao|teacher,257,Portuguese,Brazil,R,2900000,1998,8
+Color,Thomas Vinterberg,98,105,1647780,Drama,The CelebrationÂ ,65951,dogme 95|family secret|haunted by the past|secret|speech,258,Danish,Denmark,R,1300000,1998,8.1
+Color,Marc Levin,16,100,982214,Drama,SlamÂ ,1976,gang|independent film|prison|racial slur|urban setting,51,English,USA,R,1000000,1998,7.2
+Color,Jennifer Wynne Farmer,2,107,10508,Drama,Naturally NativeÂ ,103,cosmetics|female protagonist|native american|native american protagonist|sister sister relationship,6,English,USA,PG-13,700000,1998,6.5
+Color,Scott Ziehl,18,90,13493,Drama,Broken VesselsÂ ,531,independent film|katana sword|los angeles storm drain,19,English,USA,R,600000,1998,6.6
+Color,David Fincher,315,151,37023395,Drama,Fight ClubÂ ,1347461,anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,2968,English,USA,R,63000000,1999,8.8
+Color,Frank Oz,140,85,66365290,Comedy,BowfingerÂ ,56874,film within a film|filmmaking|guerrilla filmmaking|making of a movie|scientology parody,358,English,USA,PG-13,55000000,1999,6.4
+Color,Sam Weisman,62,90,28535768,Comedy,The Out-of-TownersÂ ,10446,job interview|manhattan new york city|new york city|remake|sausage,105,English,USA,PG-13,40000000,1999,5.3
+Color,Ulu Grosbard,54,106,13376506,Drama,The Deep End of the OceanÂ ,10413,basketball|boy|italian|kidnapping a child|reunion,111,English,USA,PG-13,40000000,1999,6.3
+Color,Paul Thomas Anderson,224,188,22450975,Drama,MagnoliaÂ ,241030,abusive father|coincidence|fictional game show|fictional quiz show|multiple storyline,1437,English,USA,R,37000000,1999,8
+Color,Rupert Wainwright,131,103,50041732,Horror,StigmataÂ ,54390,catholic|priest|stigmata|vatican|wound,398,English,USA,R,29000000,1999,6.2
+Color,Tim Robbins,70,132,2899970,Drama,Cradle Will RockÂ ,8039,1930s|depression|play|theatre|union,161,English,USA,R,32000000,1999,6.9
+Color,Alan Parker,99,145,13038660,Drama,Angela's AshesÂ ,16995,drink|ira|irish|limerick|prejudice,163,English,USA,R,25000000,1999,7.3
+Color,Sam Mendes,176,122,130058047,Drama,American BeautyÂ ,822500,domestic violence|drug dealer|homosexuality|midlife crisis|unfaithfulness,2715,English,USA,R,15000000,1999,8.4
+Color,Albert Brooks,97,97,11614236,Comedy,The MuseÂ ,9294,directed by star|muse|satire|screenwriter|tiffany's,140,English,USA,PG-13,15000000,1999,5.6
+Color,Tony Goldwyn,47,107,4741987,Drama,A Walk on the MoonÂ ,6782,adulterous wife|cheating wife|summer|unfaithfulness|woodstock,114,English,USA,R,14000000,1999,6.6
+Color,Andrew Fleming,81,94,6241697,Comedy,DickÂ ,16059,political cover up|political satire|teenage girl|white house|witness,210,English,France,PG-13,13000000,1999,6.1
+Color,Paul Weitz,145,95,101736215,Comedy,American PieÂ ,315549,1990s|first love|milf|prom|virginity,789,English,USA,R,11000000,1999,7
+Color,Alan Rudolph,42,110,175370,Comedy,Breakfast of ChampionsÂ ,6884,breakfast|manitoba|science fiction writer|suicide|writer,133,English,USA,R,12000000,1999,4.6
+Color,Mike Judge,144,89,10824921,Comedy,Office SpaceÂ ,200293,boss|computer|downsizing|neighbor|office,621,English,USA,R,10000000,1999,7.8
+Color,Steve Rash,11,89,4692814,Comedy,Held UpÂ ,2870,hold up|hostage|stockholm syndrome|swat team|vegetarian,34,English,USA,PG-13,8000000,1999,5.1
+Color,Jeff Franklin,45,94,2800000,Comedy,Love StinksÂ ,4377,black comedy|marriage|marriage proposal|not taking no for an answer|obsessive woman,85,English,USA,R,4000000,1999,5.8
+Color,Mike Figgis,31,106,399793,Drama,The Loss of Sexual InnocenceÂ ,2877,1950s|italian|murder|tunisia|vomiting,70,English,USA,R,4000000,1999,5.4
+Color,Kevin Allen,33,86,185577,Comedy,The Big TeaseÂ ,2133,competition|fake documentary|hairdresser|nudity|reference to liberace,31,English,UK,R,4000000,1999,6.3
+Color,David Raynr,16,94,9016377,Comedy,Trippin'Â ,1004,apostrophe in title|bare breasts|female nudity|nude black woman|prom,8,English,USA,R,,1999,5.2
+Color,Alison Maclean,74,107,1282084,Drama,Jesus' SonÂ ,6221,hospital|love|mennonite|shower|song,87,English,USA,R,2500000,1999,7
+Color,Rich Cowan,14,105,609042,Drama,The BasketÂ ,449,basketball|german immigrant|opera|two word title|war orphan,38,English,USA,PG,1300000,1999,6.5
+ Black and White,Daniel Myrick,360,81,140530114,Horror,The Blair Witch ProjectÂ ,186786,found footage|looking at the camera|lost in the woods|maryland|screaming in horror,3400,English,USA,R,60000,1999,6.4
+Color,Michael Polish,54,111,985341,Drama,Twin Falls IdahoÂ ,3479,conjoined twins|independent film|low budget film|separation|twin,87,English,USA,R,500000,1999,7.3
+Color,Jay Roach,150,108,166225040,Comedy,Meet the ParentsÂ ,260442,cat|cia|jewish|male nurse|nurse,507,English,USA,PG-13,55000000,2000,7
+Color,Bobby Farrelly,155,116,90567722,Comedy,"Me, Myself & IreneÂ ",185878,dissociative identity disorder|limousine|multiple personality|police|rhode island,481,English,USA,R,51000000,2000,6.5
+Color,Gus Van Sant,137,136,51768623,Drama,Finding ForresterÂ ,73006,basketball|mentor|new york|school|writing,297,English,USA,PG-13,43000000,2000,7.3
+Color,Mimi Leder,157,123,33508922,Drama,Pay It ForwardÂ ,95860,alcoholism|boy|good deed|protective male|teacher,660,English,USA,PG-13,40000000,2000,7.2
+Color,Todd Phillips,103,94,68525609,Comedy,Road TripÂ ,132963,blonde|college|friend|highway travel|road trip,302,English,USA,R,15600000,2000,6.5
+Color,Reginald Hudlin,58,84,13592872,Comedy,The Ladies ManÂ ,10777,black pantyhose|female stockinged legs|pantyhose|radio|tattoo,79,English,USA,R,11000000,2000,5.1
+Color,Steve Carr,55,98,57176582,Comedy,Next FridayÂ ,27492,african american|flashback|marijuana joint|porn magazine|suburb,84,English,USA,R,9500000,2000,6.1
+Color,Christopher Guest,119,90,18621249,Comedy,Best in ShowÂ ,45859,dog show|gay|gay character|gay couple|gay interest,340,English,USA,PG-13,6000000,2000,7.5
+Color,Darren Aronofsky,234,102,3609278,Drama,Requiem for a DreamÂ ,573541,addiction|diet pill|drug addiction|fast motion scene|heroin,1916,English,USA,R,4500000,2000,8.4
+Color,DJ Pooh,22,82,9821335,Comedy,3 StrikesÂ ,1415,adult diaper|diaper|digit in title|dream|sawed off shotgun,10,English,USA,R,6000000,2000,4
+Color,Barry Levinson,34,103,75078,Comedy,An Everlasting PieceÂ ,1398,alopecia|belfast northern ireland|ireland|irish republican army|scalper,26,English,USA,R,14000000,2000,6.3
+Color,Kenneth Lonergan,122,111,9180275,Drama,You Can Count on MeÂ ,22145,bank|car accident|cheating husband|new york|single mother,231,English,USA,R,1200000,2000,7.7
+Color,Catherine Jelski,13,87,58163,Drama,The Young UnknownsÂ ,122,based on play|independent film,3,English,USA,R,,2000,4.2
+Color,Marc Forster,24,87,,Drama,Everything Put TogetherÂ ,601,group of friends|mental breakdown|mental instability|morgue|sudden infant death syndrome,10,English,USA,R,100000,2000,6.6
+Color,Jon Shear,38,106,1027119,Drama,UrbaniaÂ ,2742,hot dog bun|needle|new york|rat|tourist,73,English,USA,R,225000,2000,7
+Color,Keenen Ivory Wayans,127,83,71277420,Comedy,Scary Movie 2Â ,119590,blow job|demon|exorcism|priest|professor,548,English,USA,R,45000000,2001,5.2
+Color,Lasse HallstrÃ¶m,119,111,11405825,Drama,The Shipping NewsÂ ,28542,employee employer relationship|husband wife relationship|newspaper|ship|wake,208,English,USA,R,35000000,2001,6.8
+Color,J.B. Rogers,142,108,145096820,Comedy,American Pie 2Â ,200260,beach|beach house|college|party|student,431,English,USA,R,30000000,2001,6.4
+Color,Ben Stiller,135,90,45162741,Comedy,ZoolanderÂ ,201084,fashion|malaysia|male model|reporter|rival,523,English,Germany,PG-13,28000000,2001,6.6
+Color,Jacques Perrin,100,81,10762178,Documentary,Winged MigrationÂ ,10369,arctic|bad weather|flight|migration|ocean,153,English,France,G,160000000,2001,8
+Color,Jessie Nelson,129,132,40270895,Drama,I Am SamÂ ,121937,child custody|custody battle|disability|mentally impaired man|single father,431,English,USA,PG-13,22000000,2001,7.6
+Color,Kevin Smith,181,104,30059386,Comedy,Jay and Silent Bob Strike BackÂ ,128593,internet|jay and silent bob|new jersey|orangutan|police,867,English,USA,R,22000000,2001,6.9
+Color,Steve Beck,149,91,41867960,Horror,Thir13en GhostsÂ ,65512,collector|ghost|ghost hunter|glass house|machine,478,English,USA,R,20000000,2001,5.5
+Color,Irwin Winkler,99,125,15561627,Drama,Life as a HouseÂ ,39105,cancer|construction|house|house construction|neighbor,359,English,USA,R,18000000,2001,7.5
+Color,Joel Gallen,97,99,37882551,Comedy,Not Another Teen MovieÂ ,80305,cheerleader|foreign exchange student|incestuous desire|incestuous kiss|prom,393,English,USA,R,16000000,2001,5.7
+Color,Tom Green,97,87,14249005,Comedy,Freddy Got FingeredÂ ,39788,animator|bamboo cane|cartoonist|sausage|slacker,619,English,USA,R,15000000,2001,4.5
+Color,Fred Schepisi,61,109,2326407,Drama,Last OrdersÂ ,5016,ashes|butcher|friend|friendship|memory,99,English,UK,R,12000000,2001,7
+Color,Gregory Poirier,75,95,13558739,Comedy,TomcatsÂ ,15427,box office flop|critically bashed|dominatrix|friend|money,121,English,USA,R,11000000,2001,5.3
+Color,DJ Pooh,27,93,10097096,Comedy,The WashÂ ,5612,african american stereotype|car wash|rent|roommate|threatening telephone call,38,English,USA,R,4000000,2001,4.6
+Color,Jill Sprecher,79,104,3287435,Drama,Thirteen Conversations About One ThingÂ ,8603,attorney|happiness|house cleaner|physics|professor,115,English,USA,R,4500000,2001,7.1
+ Black and White,Henry Bean,84,98,406035,Drama,The BelieverÂ ,30314,jew|jewish nazi|nazism|racism|skinhead,159,English,USA,R,1500000,2001,7.2
+Color,Callie Khouri,93,116,69586544,Drama,Divine Secrets of the Ya-Ya SisterhoodÂ ,15352,flashback|interview|louisiana|playwright|secret society,199,English,USA,PG-13,27000000,2002,6
+Color,Steve Beck,156,91,30079316,Horror,Ghost ShipÂ ,75920,decapitation|ghost ship|passenger|severed head|torso cut in half,474,English,USA,R,35000000,2002,5.5
+Color,Peter Kosminsky,103,109,16346122,Drama,White OleanderÂ ,25549,california|foster home|love|oleander|prison,171,English,USA,PG-13,16000000,2002,7.2
+Color,Mort Nathan,63,97,8586376,Comedy,Boat TripÂ ,26598,gay|hot air balloon|rejecting a marriage proposal|talking to a dog|vomiting on someone,132,English,USA,R,20000000,2002,4.9
+Color,Ed Decter,49,92,28972187,Comedy,The New GuyÂ ,28805,cheerleader|geek|high school|prison|reference to janet jackson,159,English,USA,PG-13,13000000,2002,5.9
+Color,Michael Hoffman,83,109,14060950,Drama,The Emperor's ClubÂ ,14354,classroom|fund raising|headmaster|reunion|roman,139,English,USA,PG-13,12500000,2002,6.9
+Color,Wallace Wolodarsky,53,93,10198766,Comedy,Sorority BoysÂ ,12007,college|cruise|drag|female armpit hair|sorority,105,English,USA,R,12000000,2002,5.4
+Color,Jaume BalaguerÃ³,108,103,22160085,Horror,DarknessÂ ,16747,9 year old|blood|gramophone|house|missing children,349,English,USA,PG-13,10600000,2002,5.4
+Color,Mike Leigh,81,121,112935,Drama,All or NothingÂ ,8161,love|neighbor|single parent|supermarket|working class,94,English,UK,R,9000000,2002,7.6
+Color,Lynne Ramsay,75,97,267194,Drama,Morvern CallarÂ ,6906,breasts|cleavage|female rear nudity|girl in panties|public nudity,111,English,UK,R,,2002,6.7
+Color,Spike Lee,202,108,13060843,Drama,25th HourÂ ,149528,bar|dream|drug dealing|nightclub|widower,454,English,USA,R,15000000,2002,7.7
+Color,Pete Jones,31,91,119841,Drama,Stolen SummerÂ ,2419,catholic|catholicism|rabbi|school|summer,55,English,USA,PG,1500000,2002,6.5
+Color,Karen Moncrieff,44,88,464126,Drama,Blue CarÂ ,3142,contest|poetry|refusing to eat|starving oneself|teenage girl,68,English,USA,R,1000000,2002,6.7
+Color,Neil Burger,31,88,47329,Drama,Interview with the AssassinÂ ,1661,conspiracy theory|kennedy assassination|mock documentary|paranoia,31,English,USA,R,750000,2002,6.6
+Color,Mike Newell,141,117,63695760,Drama,Mona Lisa SmileÂ ,61490,art|college|school|student|wellesley college,264,English,USA,PG-13,65000000,2003,6.4
+ Black and White,Quentin Tarantino,354,111,70098138,Action,Kill Bill: Vol. 1Â ,735784,bride|coma|japan|revenge|sword,2105,English,USA,R,30000000,2003,8.1
+Color,Bobby Farrelly,123,118,33828318,Comedy,Stuck on YouÂ ,44453,actor|conjoined twins|cook|internet|short order cook,154,English,USA,PG-13,55000000,2003,5.8
+Color,David Zucker,151,84,110000082,Comedy,Scary Movie 3Â ,111526,crop circle|farm|orchestral music score|reference to michael jackson|videotape,347,English,USA,PG-13,48000000,2003,5.5
+Color,Danny DeVito,78,89,9652000,Comedy,DuplexÂ ,46205,christmas|duplex|television|tenant|writer,147,English,USA,PG-13,40000000,2003,5.8
+Color,Chris Rock,44,95,37788228,Comedy,Head of StateÂ ,15046,alderman|party|president|presidential candidate|washington d.c.,80,English,USA,PG-13,35200000,2003,5.4
+Color,Troy Miller,85,85,26096584,Comedy,Dumb and Dumberer: When Harry Met LloydÂ ,30651,1980s|buddy|high school|prequel to cult favorite|teenager,267,English,USA,PG-13,19000000,2003,3.4
+Color,Charles Herman-Wurmfeld,133,95,89808372,Comedy,"Legally Blonde 2: Red, White & BlondeÂ ",46417,animal rights|congresswoman|doorman|transvestism|washington d.c.,297,English,USA,PG-13,45000000,2003,4.6
+Color,Victor Salva,167,104,35143332,Horror,Jeepers Creepers IIÂ ,45102,cheerleader|farmer|fear|high school basketball|nightmare,316,English,USA,R,17000000,2003,5.6
+Color,Todd Phillips,123,88,74608545,Comedy,Old SchoolÂ ,185258,college|fraternity|friend|house|party,404,English,USA,R,24000000,2003,7.2
+Color,Adam Shankman,121,105,132541238,Comedy,Bringing Down the HouseÂ ,30058,divorce|lawyer|spanking|villain arrested|wrongful conviction,236,English,USA,PG-13,33000000,2003,5.5
+Color,Alejandro G. IÃ±Ã¡rritu,192,124,16248701,Drama,21 GramsÂ ,189683,accident|faith|love|mathematician|nonlinear timeline,559,English,USA,R,20000000,2003,7.7
+Color,Sam Weisman,75,98,22734486,Comedy,Dickie Roberts: Former Child StarÂ ,11815,dental braces|dental headgear|former child star|panties|white panties,117,English,USA,PG-13,17000000,2003,5.6
+Color,Vadim Perelman,158,126,13005485,Drama,House of Sand and FogÂ ,56665,auction|home|house|iranian|marriage,469,English,USA,R,15000000,2003,7.6
+ Black and White,Rob Zombie,202,105,12583510,Horror,House of 1000 CorpsesÂ ,60709,actor playing multiple roles|axe|dark comedy|masked man|sadism,922,English,USA,R,7000000,2003,6
+Color,Claude Chabrol,60,104,181798,Drama,The Flower of EvilÂ ,2591,bordeaux|election|mayor|pamphlet|political thriller,36,French,France,R,,2003,6.6
+Color,Sofia Coppola,265,101,44566004,Drama,Lost in TranslationÂ ,321283,fish out of water|japanese|loneliness|older man younger woman relationship|unlikely friendship,1848,English,USA,R,4000000,2003,7.8
+Color,Rick de Oliveira,52,96,3713002,Documentary,The Real CancunÂ ,3611,cancun mexico|mexico|spring break|vacation|wisconsin,62,English,USA,R,8000000,2003,2.7
+Color,Catherine Hardwicke,126,100,4599680,Drama,ThirteenÂ ,68222,13 year olds|adolescence|friend|peer pressure|teacher,545,English,USA,R,1500000,2003,6.8
+Color,Gary Rogers,7,120,1098224,Adventure,"The Book of Mormon Movie, Volume 1: The JourneyÂ ",397,jerusalem|journey|promised land|ship|wilderness,30,English,USA,PG-13,2000000,2003,3.3
+ Black and White,Jonathan Kesselman,35,87,19539,Comedy,The Hebrew HammerÂ ,4182,blaxploitation|hanukkah|jewish|kwanzaa|santa claus,53,English,USA,R,1000000,2003,6.2
+Color,Siddiq Barmak,105,83,1127331,Drama,OsamaÂ ,7559,boy|girl|hair|school|taliban,77,Dari,Afghanistan,PG-13,46000,2003,7.4
+Color,Wolfgang Petersen,220,196,133228348,Adventure,TroyÂ ,381672,greek|mythology|prince|trojan|troy,1694,English,USA,R,175000000,2004,7.2
+Color,Jeff Nathanson,42,93,463730,Comedy,The Last ShotÂ ,3789,fbi|movie producer|sting operation|undercover|urination,39,English,USA,R,,2004,5.7
+Color,Mel Gibson,406,120,499263,Drama,The Passion of the ChristÂ ,179235,anti semitism|cult film|grindhouse|suffering|torture,2814,Aramaic,USA,R,30000000,2004,7.1
+Color,Adam McKay,181,98,84136909,Comedy,Anchorman: The Legend of Ron BurgundyÂ ,267921,1970s|anchorman|news anchor|newsroom|tv station,577,English,USA,PG-13,26000000,2004,7.2
+Color,Jeff Schaffer,92,93,17718223,Comedy,EuroTripÂ ,162067,female frontal nudity|male frontal nudity|nudist|nudity|public nudity,316,English,USA,R,25000000,2004,6.6
+Color,Mira Nair,118,141,16123851,Drama,Vanity FairÂ ,17373,aristocrat|english|painter|painting|singer,148,English,USA,PG-13,23000000,2004,6.2
+Color,David O. Russell,183,107,12784713,Comedy,I Heart HuckabeesÂ ,56813,coincidence|cult film|overalls|suburb|vomiting,381,English,USA,R,22000000,2004,6.7
+Color,Barry Levinson,76,99,12181484,Comedy,EnvyÂ ,26390,best friend|dog|envy|jealousy|neighbor,176,English,USA,PG-13,40000000,2004,4.8
+Color,Mark Waters,159,97,86049418,Comedy,Mean GirlsÂ ,245989,bully|clique|high school|high school girl|secret,554,English,USA,PG-13,17000000,2004,7
+Color,Lance Rivera,21,97,11540112,Comedy,The CookoutÂ ,2385,flatulence|interracial marriage|marriage,20,English,USA,PG-13,,2004,3.6
+Color,Jessy Terrero,75,92,13922211,Comedy,Soul PlaneÂ ,18271,airline|airplane|bathroom|sex|toilet,150,English,USA,R,16000000,2004,4.4
+Color,Christopher Erskin,45,97,31179516,Comedy,Johnson Family VacationÂ ,5928,cross country|cross country trip|highway travel|on the road|road movie,49,English,USA,PG-13,12000000,2004,4.3
+Color,Cheryl Dunye,33,86,17321573,Comedy,My Baby's DaddyÂ ,3119,animal costume|break up|fatherhood|rapper|talking baby,18,English,USA,PG-13,,2004,4.5
+Color,Michael Schultz,17,94,6879730,Drama,Woman Thou Art LoosedÂ ,806,abuse|bishop|death|flashback|poverty,23,English,USA,R,,2004,6.9
+Color,Lucrecia Martel,78,106,304124,Drama,The Holy GirlÂ ,2720,16 year old|doctor|hotel|tinnitus|title directed by female,37,Spanish,Argentina,R,1400000,2004,6.7
+Color,Mary Pat Kelly,2,87,,Drama,ProudÂ ,275,,22,English,USA,PG,1000000,2004,5.8
+Color,Jared Hess,220,92,44540956,Comedy,Napoleon DynamiteÂ ,161448,class president|family relationships|friend|high school|jock,1473,English,USA,PG,400000,2004,6.9
+Color,Lori Silverbush,26,86,,Drama,On the OutsÂ ,603,dominican|drug dealer|prison|single mother|teenage pregnancy,15,English,USA,R,,2004,6.9
+Color,Jon Gunn,43,90,85222,Documentary,My Date with DrewÂ ,4285,actress name in title|crush|date|four word title|video camera,84,English,USA,PG,1100,2004,6.6
+Color,Jaume Collet-Serra,228,108,32048809,Horror,House of WaxÂ ,94456,brother sister relationship|group of friends|male nudity|twin|wax,576,English,Australia,R,30000000,2005,5.3
+Color,Niki Caro,155,126,18324242,Drama,North CountryÂ ,32815,based on true story|innocence|lawsuit|mine|sexual harassment,214,English,USA,R,35000000,2005,7.3
+Color,Lasse HallstrÃ¶m,107,108,8535575,Drama,An Unfinished LifeÂ ,24033,abusive boyfriend|bear|car accident|ranch|wyoming,152,English,USA,PG-13,30000000,2005,7
+Color,Bille Woodruff,72,105,36310118,Comedy,Beauty ShopÂ ,13194,client|dentures|false teeth|reference to peter pan|single parent,59,English,USA,PG-13,,2005,5.5
+Color,Mike Bigelow,98,83,22264487,Comedy,Deuce Bigalow: European GigoloÂ ,41239,dolphin|gigolo|pimp|serial killer|villain arrested,166,English,USA,R,22000000,2005,4.6
+ Black and White,George A. Romero,252,97,20433940,Horror,Land of the DeadÂ ,78883,apocalypse|mercenary|skyscraper|urban setting|zombie apocalypse,662,English,Canada,R,15000000,2005,6.2
+Color,Richard E. Grant,49,97,233103,Drama,Wah-WahÂ ,2670,alcoholic|alcoholic father|stepmother|swaziland|unfaithful wife,50,English,UK,R,7000000,2005,6.9
+Color,Eli Roth,303,93,47277326,Horror,HostelÂ ,138814,bratislava|hostel|sadistic horror|torture|travel,1516,English,USA,R,4800000,2005,5.9
+Color,Andrucha Waddington,42,115,,Drama,House of SandÂ ,2650,1910s|desert|dunes|goat|slave,35,Portuguese,Brazil,R,8000000,2005,7.5
+Color,Luc Jacquet,169,80,77413017,Documentary,March of the PenguinsÂ ,45984,chick|emperor penguin|journey|ocean|penguin,331,French,France,G,8000000,2005,7.6
+Color,Philip Zlotorynski,14,80,,Comedy,My Big Fat Independent MovieÂ ,1257,independent film|spoof,24,English,USA,R,3000000,2005,3.3
+Color,Rebecca Miller,75,112,712294,Drama,The Ballad of Jack and RoseÂ ,9408,commune|defecation|environmentalism|fellatio|island,68,English,USA,R,1500000,2005,6.7
+Color,Rob McKittrick,91,94,16101109,Comedy,Waiting...Â ,76467,cook|dishwasher|flashing|male frontal nudity|waiter,236,English,USA,R,3000000,2005,6.8
+Color,Jaume Collet-Serra,228,108,32048809,Horror,House of WaxÂ ,94463,brother sister relationship|group of friends|male nudity|twin|wax,576,English,Australia,R,30000000,2005,5.3
+Color,Jonathan Parker,2,87,,Drama,The CaliforniansÂ ,299,based on novel,11,English,USA,PG,,2005,5
+ Black and White,Andrew Bujalski,52,109,,Comedy,Mutual AppreciationÂ ,1578,friendship|guitarist|mumblecore|musician|new york,23,English,USA,R,,2005,6.9
+Color,David Zucker,151,89,90703745,Comedy,Scary Movie 4Â ,93748,female nudity|male nudity|parody|reference to myspace|sequel,410,English,USA,PG-13,45000000,2006,5.1
+Color,James Wong,216,86,54098051,Horror,Final Destination 3Â ,102861,amusement park|death|fate|premonition|roller coaster,571,English,Germany,R,25000000,2006,5.8
+Color,Alejandro G. IÃ±Ã¡rritu,285,143,34300771,Drama,BabelÂ ,243799,american|destiny|mexican border|multiple perspectives|muslim,908,English,France,R,25000000,2006,7.5
+Color,Todd Phillips,110,108,17803796,Comedy,School for ScoundrelsÂ ,26100,paintball|paintball gun|pepper spray|tennis|what happened to epilogue,97,English,USA,PG-13,20000000,2006,5.9
+Color,Larry Charles,343,82,128505958,Comedy,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of KazakhstanÂ ,297014,california|city|kazakhstan|travel|tv reporter,1198,English,USA,R,18000000,2006,7.3
+Color,Jay Chandrasekhar,91,110,19179969,Comedy,BeerfestÂ ,54710,beer|competition|germany|oktoberfest|prostitute,177,English,USA,R,17500000,2006,6.3
+Color,Alexandre Aja,265,108,41777564,Horror,The Hills Have EyesÂ ,129719,desert|horror movie remake|murder of family|rape|slasher,855,English,USA,R,15000000,2006,6.4
+Color,Jonathan Liebesman,196,83,39511038,Horror,The Texas Chainsaw Massacre: The BeginningÂ ,56269,cannibal|car accident|leatherface|psychopath|slaughterhouse,366,English,USA,R,16000000,2006,5.9
+Color,Christopher Guest,144,86,5542025,Comedy,For Your ConsiderationÂ ,12197,actor|internet|make up|publicist|purim,150,English,USA,PG-13,12000000,2006,6.3
+Color,Karan Johar,20,193,3275443,Drama,Kabhi Alvida Naa KehnaÂ ,13998,extramarital affair|fashion magazine editor|marriage|new york|teacher,264,Hindi,India,R,700000000,2006,6
+Color,Glen Morgan,186,94,16235293,Horror,Black ChristmasÂ ,19918,attic|christmas|house|incest|sorority,278,English,USA,R,9000000,2006,4.5
+Color,Mira Nair,167,122,13569248,Drama,The NamesakeÂ ,16530,bengali|india|reference to gogol|train|train crash,117,English,USA,PG-13,,2006,7.6
+Color,Doug Atchison,95,112,18811135,Drama,Akeelah and the BeeÂ ,15337,national spelling bee|principal|school principal|spelling|spelling bee,172,English,USA,PG,,2006,7.5
+ Black and White,Kevin Smith,174,97,24138847,Comedy,Clerks IIÂ ,114797,fast food|fast food restaurant|new jersey|quick stop|restaurant,472,English,USA,R,5000000,2006,7.4
+Color,Nicholaus Goossen,61,90,6088249,Comedy,Grandma's BoyÂ ,67853,co worker|game tester|loss of virginity|roommate|snack,202,English,USA,R,,2006,7
+Color,Scott Marshall,43,90,4328294,Comedy,Keeping Up with the SteinsÂ ,2719,bar mitzvah|carried in a chair|hebrew|party|rite of passage,41,English,USA,PG-13,,2006,5.4
+Color,Nnegest LikkÃ©,37,99,7059537,Comedy,Phat GirlzÂ ,8279,female protagonist|size positive|thin|title directed by female|wet dream,101,English,USA,PG-13,3000000,2006,3
+Color,Laurie Collyer,78,96,198407,Drama,SherrybabyÂ ,10282,ex convict|halfway house|nipples visible through clothing|orgasm|parole officer,78,English,USA,R,2000000,2006,6.6
+Color,Ham Tran,15,135,638951,Drama,Journey from the FallÂ ,775,1970s|1980s|nonlinear timeline|rescue|vietnam war,19,Vietnamese,USA,R,1592000,2006,7.4
+Color,Regardt van den Bergh,5,116,,Drama,Faith Like PotatoesÂ ,2050,food|food in title|potato,36,Zulu,South Africa,PG,10000000,2006,6.9
+Color,Davis Guggenheim,372,96,23808111,Documentary,An Inconvenient TruthÂ ,67654,climate|earth|global warming|science|truth,504,English,USA,PG,,2006,7.5
+Color,Chris Paine,87,92,1677838,Documentary,Who Killed the Electric Car?Â ,11283,california|car|reference to ralph nader|technology|u.s. president,155,English,USA,PG,1000000,2006,7.7
+Color,Jonathan Levine,233,90,,Horror,All the Boys Love Mandy LaneÂ ,25951,drugs|female nudity|party|voyeur|voyeurism,129,English,USA,R,750000,2006,5.6
+Color,Ryan Fleck,208,106,2694973,Drama,Half NelsonÂ ,70885,bathroom|classroom|dialectics|drugs|student,189,English,USA,R,700000,2006,7.2
+Color,Patrick Creadon,88,94,3117666,Documentary,WordplayÂ ,3394,comedian|crossword puzzle|editor|new york times|puzzle,43,English,USA,PG,,2006,7.4
+Color,Richard Glatzer,69,90,1689999,Drama,QuinceaÃ±eraÂ ,3675,15th birthday|birthday|gay|party|security guard,48,Spanish,USA,R,400000,2006,7.1
+Color,David Slade,304,113,39568996,Horror,30 Days of NightÂ ,138435,alaska|small town|snow|vampire|winter,527,English,USA,R,32000000,2007,6.6
+Color,Paul Thomas Anderson,398,158,40218903,Drama,There Will Be BloodÂ ,372990,alcoholic|alcoholism|money|oil|turn of the century,1107,English,USA,R,25000000,2007,8.1
+Color,Akiva Schaffer,111,88,13920741,Comedy,Hot RodÂ ,59900,humiliation|man child|moped|neighbor|slacker,149,English,USA,PG-13,,2007,6.7
+Color,Frank Oz,168,87,8579684,Comedy,Death at a FuneralÂ ,89547,end credits roll call|four word title|funeral|secret|uncle,199,English,USA,R,9000000,2007,7.4
+Color,Mike Binder,154,124,19661987,Drama,Reign Over MeÂ ,83786,college|depression|grief|mental breakdown|post september 11 2001,231,English,USA,R,20000000,2007,7.5
+Color,Marc Forster,201,128,15797907,Drama,The Kite RunnerÂ ,68119,afghanistan|based on novel|boy|friend|kite,230,Dari,USA,PG-13,20000000,2007,7.6
+Color,Frank Oz,168,87,8579684,Comedy,Death at a FuneralÂ ,89547,end credits roll call|four word title|funeral|secret|uncle,199,English,USA,R,9000000,2007,7.4
+Color,Greg Mottola,256,119,121463226,Comedy,SuperbadÂ ,422606,black comedy|bromance|party|school|teen comedy,555,English,USA,R,20000000,2007,7.6
+Color,Ian Iqbal Rashid,62,94,7070459,Drama,How She MoveÂ ,4600,dance|dance contest|loss of sister|step dancing|teenager,18,English,Canada,PG-13,,2007,3.3
+Color,Susanne Bier,146,118,2849142,Drama,Things We Lost in the FireÂ ,24104,best friend|dinner|garage|narcotics anonymous|recovery,88,English,USA,R,16000000,2007,7.2
+Color,Martin Weisz,161,89,20801344,Horror,The Hills Have Eyes IIÂ ,49721,desert|fight|hill|murder|mutant,211,English,USA,R,15000000,2007,5.1
+Color,Frank Darabont,330,126,25592632,Horror,The MistÂ ,220475,desperation|fog|giant insect|survival|survival horror,1066,English,USA,R,18000000,2007,7.2
+Color,Oliver Parker,56,100,,Comedy,St. Trinian'sÂ ,18220,2000s|female protagonist|reward|school|st trinian's,102,English,UK,PG-13,13500000,2007,5.8
+Color,Bob Odenkirk,51,93,900926,Comedy,The Brothers SolomonÂ ,9517,antarctica|coma|neighbor|phd|pregnancy,46,English,USA,R,10000000,2007,5.3
+Color,Eli Roth,252,94,17544812,Horror,Hostel: Part IIÂ ,69989,american|hostel|slovakia|torture|train,384,English,USA,R,10000000,2007,5.4
+Color,Leonard Farlinger,8,89,,Western,All HatÂ ,436,contemporary west|cowboy|horse|jockey|neo western,8,English,Canada,R,5000000,2007,5.3
+Color,George A. Romero,280,95,952620,Horror,Diary of the DeadÂ ,40800,barn|film student|hospital|mummy|video camera,332,English,USA,R,2000000,2007,5.7
+Color,Sarah Gavron,80,101,1094998,Drama,Brick LaneÂ ,2560,arranged marriage|bangladesh|buckingham palace|september 11 2001|title directed by female,29,English,UK,PG-13,,2007,6.7
+Color,Michael Landon Jr.,18,117,379643,Drama,The Last Sin EaterÂ ,1573,1850s|christian film|dark secret|funeral|sin eater,29,English,USA,PG-13,2200000,2007,5.9
+Color,Jaume BalaguerÃ³,252,78,,Horror,[Rec]Â ,131462,apartment building|character's point of view camera shot|fire station|subjective camera|television reporter,374,Spanish,Spain,R,1500000,2007,7.5
+Color,Sol Tryon,28,91,12055,Comedy,The Living WakeÂ ,739,artist|black comedy,10,English,USA,PG-13,500000,2007,6.5
+Color,Oren Peli,409,84,107917283,Horror,Paranormal ActivityÂ ,184824,dark force|entity|evil force|found footage|paranormal phenomenon,1189,English,USA,R,15000,2007,6.3
+Color,Dan Reed,61,80,,Thriller,ClosureÂ ,5747,countryside|night|party|rape|scar,44,English,UK,R,1800000,2007,5.6
+Color,Mike Bruce,3,78,243768,Western,The Legend of God's GunÂ ,143,,9,English,USA,R,30000,2007,4.1
+Color,Adam McKay,173,106,100468793,Comedy,Step BrothersÂ ,212499,dream|friendship|karaoke|love|slacker,277,English,USA,R,65000000,2008,6.9
+Color,Jason Friedberg,111,86,38232624,Comedy,Meet the SpartansÂ ,88518,king|persian|spartan|training|xerxes,409,English,USA,PG-13,30000000,2008,2.7
+Color,Ron Howard,302,122,18593156,Drama,Frost/NixonÂ ,88682,american president|political drama|scandal|u.s. president|washington post the newspaper,241,English,USA,R,35000000,2008,7.7
+Color,David Wain,173,101,67266300,Comedy,Role ModelsÂ ,195255,absent father|big brother|community service|live action role playing|peter pan syndrome,170,English,Germany,R,28000000,2008,6.9
+Color,Clint Eastwood,366,116,148085755,Drama,Gran TorinoÂ ,561773,gang|gang rape|hmong|teenager|widower,871,English,USA,R,33000000,2008,8.2
+Color,Carter Smith,233,93,17427926,Horror,The RuinsÂ ,60062,bow and arrow|group of friends|horse|rifle|ruins,351,English,USA,R,8000000,2008,5.9
+Color,Richard Linklater,160,107,1186957,Drama,Me and Orson WellesÂ ,9264,high school|mercury theatre|opening night|school|theatre,69,English,UK,PG-13,25000000,2008,6.8
+Color,Jason Friedberg,111,88,14174654,Comedy,Disaster MovieÂ ,74945,disaster|glass|mousetrap|natural disaster|scatological humor,359,English,USA,PG-13,25000000,2008,1.9
+Color,Michel Gondry,248,102,11169531,Comedy,Be Kind RewindÂ ,79855,friend|power plant|sabotage|store clerk|video store,235,English,UK,PG-13,20000000,2008,6.4
+Color,Tony Jaa,110,110,102055,Action,Ong-bak 2Â ,24570,cult film|elephant|jungle|martial arts|stylized violence,72,Thai,Thailand,R,300000000,2008,6.2
+Color,Gina Prince-Bythewood,109,110,37766350,Drama,The Secret Life of BeesÂ ,19440,beekeeping|insect in title|racism|sister|south carolina,56,English,USA,PG-13,11000000,2008,7.3
+Color,William Dear,16,94,140987,Drama,Free StyleÂ ,361,,4,English,Canada,PG,,2008,4.2
+Color,Deb Hagan,42,94,4693919,Comedy,CollegeÂ ,11011,college|face slap|high school|loss of virginity|pierced nipple,78,English,USA,R,6500000,2008,4.6
+Color,S.R. Bindler,26,85,36497,Comedy,"Surfer, DudeÂ ",7367,barefoot|endorsement|surfboard|virtual reality|waves,37,English,USA,R,6000000,2008,4.7
+Color,Laurent Cantet,212,128,3766595,Drama,The ClassÂ ,29248,high school|inner city|school|student|teacher,86,French,France,PG-13,,2008,7.5
+Color,Hayley Cloake,11,90,,Thriller,Impact PointÂ ,1118,championship|hit and run|police|police investigation|volleyball,9,English,USA,R,2200000,2008,4.3
+Color,James Mottern,46,90,52166,Drama,TruckerÂ ,2792,cancer|cigarette smoking|hospital|one night stand|trucker,22,English,USA,R,2000000,2008,6.7
+Color,Adam Jay Epstein,14,76,,Comedy,Extreme MovieÂ ,9560,box office flop|female frontal nudity|pink bra and panties|red bra and panties|sex,35,English,USA,R,,2008,3.8
+Color,Robert Kenner,120,94,4417124,Documentary,"Food, Inc.Â ",42389,farming|flesh eating|food|food industry|gluttony,183,English,USA,PG,,2008,7.9
+Color,Lori Petty,12,93,,Drama,The Poker HouseÂ ,3943,basketball|drug abuse|interracial rape|iowa|tween girl,24,English,USA,R,,2008,6.5
+Color,Charlie Levi,,90,,Drama,ChildlessÂ ,33,,,English,USA,R,1000000,2008,6.1
+Color,Kelly Reichardt,189,80,856942,Drama,Wendy and LucyÂ ,12241,car|dog|flip phone|rape threat|vulnerable,112,English,USA,R,200000,2008,7.1
+Color,Peter Billingsley,166,113,109176215,Comedy,Couples RetreatÂ ,83506,couple|island|marriage|tropical|voyeurism,144,English,USA,PG-13,60000000,2009,5.5
+Color,Larry Charles,288,81,59992760,Comedy,BrÃ¼noÂ ,119622,austrian|fame|fashion|gay lead character|mockumentary,396,English,USA,R,42000000,2009,5.8
+Color,David R. Ellis,221,82,66466372,Horror,The Final DestinationÂ ,75345,attempted suicide|car crash|collapsing scaffold|overflowing bathtub|tooth knocked out,290,English,USA,R,40000000,2009,5.2
+Color,Lee Daniels,323,109,47536959,Drama,PreciousÂ ,86955,abuse|african american lesbian|lesbian|lesbian couple|school,275,English,USA,R,10000000,2009,7.3
+Color,Todd Phillips,334,108,277313371,Comedy,The HangoverÂ ,583341,drunkenness|female nudity|hangover|hedonism|morning after,626,English,USA,R,35000000,2009,7.8
+Color,Nick Cassavetes,148,109,49185998,Drama,My Sister's KeeperÂ ,74476,hospital|leukemia|oncology|sick child|terminal illness,184,English,USA,PG-13,30000000,2009,7.4
+Color,Rob Zombie,220,119,33386128,Horror,Halloween IIÂ ,36372,halloween|hospital|michael myers|rampage|vomiting,491,English,USA,R,15000000,2009,4.9
+Color,Lee Daniels,323,109,47536959,Drama,PreciousÂ ,86956,abuse|african american lesbian|lesbian|lesbian couple|school,275,English,USA,R,10000000,2009,7.3
+Color,Neal Brennan,83,89,15102127,Comedy,"The Goods: Live Hard, Sell HardÂ ",17790,fourth of july|looking at one's self in a mirror|mirror|sex toy|young version of character,59,English,USA,R,,2009,5.8
+Color,Marc Forby,26,97,883887,Drama,Princess KaiulaniÂ ,1201,hawaii|hawaiian|historically inaccurate|princess|tearing up a letter,14,English,USA,PG,9000000,2009,6.2
+Color,Lone Scherfig,278,100,12574715,Drama,An EducationÂ ,112138,1960s|age difference|france|loss of virginity|oxford,237,English,UK,PG-13,4500000,2009,7.3
+Color,Bob Gosse,52,105,1425993,Comedy,I Hope They Serve Beer in HellÂ ,7412,bachelor party|bare butt|loud sex|sex standing up|topless female nudity,72,English,USA,R,,2009,5.3
+Color,Jaume BalaguerÃ³,222,85,27024,Horror,[Rec] 2Â ,55597,apartment|apartment building|blood sample|crucifix|zombie,148,Spanish,Spain,R,5600000,2009,6.6
+Color,George A. Romero,274,90,101055,Horror,Survival of the DeadÂ ,17478,delaware|feud|island|undead|zombie,159,English,USA,R,4000000,2009,5
+Color,Alan Jacobs,1,92,,Drama,Down for LifeÂ ,257,latina|south central los angeles,6,English,USA,R,,2009,7.3
+Color,Dagur KÃ¡ri,61,99,19959,Drama,The Good HeartÂ ,3579,bar|bartender|death|heart attack|mentor protege relationship,14,English,Iceland,R,3800000,2009,6.9
+Color,Lance Kawas,,90,,Comedy,The DeportedÂ ,62,actor|italian american|mexico|orphan|usa,1,English,USA,PG-13,3000000,2009,6.2
+Color,Francesca Gregorini,21,96,5005,Drama,Tanner HallÂ ,2280,boarding school|coming of age|female friendship|lesbian|new england,14,English,USA,R,3000000,2009,5.9
+Color,Rob Zombie,220,119,33386128,Horror,Halloween IIÂ ,36372,halloween|hospital|michael myers|rampage|vomiting,491,English,USA,R,15000000,2009,4.9
+Color,Ti West,238,95,100659,Horror,The House of the DevilÂ ,30160,cult film|eclipse|haunted house|lunar eclipse|secret,193,English,USA,R,900000,2009,6.4
+Color,Robert Bennett,6,90,,Comedy,Frat PartyÂ ,1612,erotica|masseuse|sister sister relationship|temptation|threesome,28,English,USA,R,1000000,2009,2.8
+Color,Christopher Hutson,8,95,,Horror,BledÂ ,851,artist|blood|drug|tree sap|vampire,30,English,USA,R,750000,2009,3.1
+Color,Brian Baugh,20,120,3773863,Drama,To Save a LifeÂ ,4583,basketball|beer pong|childhood friend|christian|suicide,55,English,USA,PG-13,1000000,2009,7.1
+Color,Dennis Dugan,179,102,162001186,Comedy,Grown UpsÂ ,181443,basketball|coach|daughter|high school|high school basketball,311,English,USA,PG-13,80000000,2010,6
+Color,Oliver Stone,297,136,52474616,Drama,Wall Street: Money Never SleepsÂ ,84118,corporate greed|crisis|economy|greed|mentor,245,English,USA,PG-13,70000000,2010,6.3
+Color,Jay Roach,190,114,72980108,Comedy,Dinner for SchmucksÂ ,80338,dinner|diorama|idiot|irs|mouse,264,English,USA,PG-13,,2010,5.9
+Color,Alejandro G. IÃ±Ã¡rritu,288,148,5100937,Drama,BiutifulÂ ,68885,children|chinese|illegal immigrant|immigrant|male ponytail,127,Spanish,Mexico,R,,2010,7.5
+Color,Tom Vaughan,126,106,11854694,Drama,Extraordinary MeasuresÂ ,14281,cure|disease|imagination|race against time|venture capital,64,English,USA,PG,31000000,2010,6.5
+Color,Tyler Perry,75,133,37721949,Drama,For Colored GirlsÂ ,6067,african american protagonist|female protagonist|multi protagonist|poem|three word title,73,English,USA,R,,2010,6
+Color,Jason Friedberg,122,82,36658108,Comedy,Vampires SuckÂ ,39095,cat|friend|love|sheriff|teenager,187,English,USA,PG-13,20000000,2010,3.5
+Color,Erik White,62,99,24708699,Comedy,Lottery TicketÂ ,7991,block party|eurocopter ec120 colibri|fortune cookie|lottery ticket|reverend,30,English,USA,PG-13,,2010,4.9
+Color,Chao-Bin Su,50,117,,Action,Reign of AssassinsÂ ,6069,martial arts|sword fight|wuxia,34,Mandarin,China,R,12000000,2010,6.9
+Color,Hyung-rae Shim,4,100,163591,Comedy,The Last GodfatherÂ ,912,mafia|mafia boss|mafiosi|mafioso|three word title,17,English,South Korea,PG-13,13400000,2010,3.6
+Color,Jake Scott,112,110,152857,Drama,Welcome to the RileysÂ ,19979,businessman|prostitute|street|stripper|travel,56,English,UK,R,,2010,7
+Color,Jeb Stuart,20,128,82739,Drama,Blood Done Sign My NameÂ ,465,based on autobiography|based on novel|based on true story|murder|racism,3,English,USA,PG-13,,2010,6.7
+Color,Jim Issa,4,84,,Comedy,Good IntentionsÂ ,553,,3,English,USA,PG-13,10000000,2010,5.2
+Color,Spencer Susser,134,106,382946,Drama,HesherÂ ,43965,bully|car|car accident|fire|vomiting,99,English,USA,R,7000000,2010,7.1
+Color,Shari Springer Berman,104,108,453079,Comedy,The Extra ManÂ ,4124,co worker|escort|magazine|teacher|writer,29,English,USA,R,7000000,2010,5.9
+Color,Stewart Raffill,9,105,531806,Musical,Standing OvationÂ ,548,dance|dream|frog|philadelphia pennsylvania|snake,6,English,USA,PG,,2010,3.4
+Color,Xavier Beauvois,195,122,3950029,Drama,Of Gods and MenÂ ,12411,catholic church|community|monastery|monk|terrorist,89,French,France,PG-13,4000000,2010,7.2
+Color,John Cameron Mitchell,248,91,2221809,Drama,Rabbit HoleÂ ,40618,car|comic book|comic book artist|iphone|memory,144,English,USA,PG-13,5000000,2010,7
+Color,Tod Williams,264,98,84749884,Horror,Paranormal Activity 2Â ,82133,california|carlsbad california|house|nanny|security camera,359,English,USA,R,3000000,2010,5.7
+Color,Heidi Ewing,73,93,100675,Documentary,FreakonomicsÂ ,5695,cheating|economics|experiment|human nature|sumo wrestling,23,English,USA,PG-13,3000000,2010,6.4
+Color,Reed Cowan,28,80,99851,Documentary,8: The Mormon PropositionÂ ,1138,church|marriage|mormon|mormon church|proposition,30,English,USA,R,2500000,2010,7.1
+Color,Mario Van Peebles,12,95,27012,Drama,Redemption RoadÂ ,440,death of loved one|loss of father|loss of loved one|musician|singer,9,English,USA,PG-13,,2010,5.9
+Color,Debra Granik,365,100,6531491,Drama,Winter's BoneÂ ,111658,bail|crystal meth|family relationships|female protagonist|search for father,297,English,USA,R,2000000,2010,7.2
+Color,Huck Botko,46,86,535249,Comedy,The Virginity HitÂ ,3467,masturbation|porn star|sex lesson from a prostitute|spreadeagle|topless,13,English,USA,R,3400000,2010,4.6
+Color,Craig Moss,16,82,,Comedy,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About ItÂ ,5579,masturbation|porn actor in mainstream movie|sex|spoof|virginity,42,English,USA,R,1300000,2010,2.7
+Color,Ray Griggs,4,92,425899,Documentary,I Want Your MoneyÂ ,1123,,31,English,USA,PG,400000,2010,5.1
+Color,Eric Mendelsohn,20,88,,Drama,3 BackyardsÂ ,554,number in title,23,English,USA,R,300000,2010,5.2
+Color,Corbin Bernsen,3,95,,Drama,RustÂ ,300,,8,English,Canada,PG,250000,2010,5.7
+Color,David G. Evans,25,101,2428241,Drama,The Grace CardÂ ,2099,christian film|forgiveness|hospital|pastor|police,26,English,USA,PG-13,200000,2010,6.4
+Color,Todd Phillips,383,102,254455986,Comedy,The Hangover Part IIÂ ,375879,hotel|male frontal nudity|pubic hair|thailand|wedding,402,English,USA,R,80000000,2011,6.5
+Color,Dennis Dugan,156,91,74158157,Comedy,Jack and JillÂ ,60370,advertising|advertising executive|commercial|protective male|twins,264,English,USA,PG,79000000,2011,3.4
+Color,David Frankel,108,100,7204138,Comedy,The Big YearÂ ,34809,alaska|birding|competition|migration|storm,125,English,USA,PG,41000000,2011,6.2
+Color,Steven Quale,277,92,42575718,Horror,Final Destination 5Â ,83788,blood splatter|death|eyeball run over by car|latex gloves|suspension bridge,227,English,USA,R,40000000,2011,5.9
+Color,Tate Taylor,373,146,169705587,Drama,The HelpÂ ,318955,black servant|chocolate pie|jackson mississippi|maid|writing a novel,460,English,USA,PG-13,25000000,2011,8.1
+Color,David Gordon Green,146,87,30538669,Comedy,The SitterÂ ,60202,babysitting|car crash|child in peril|kicked in the face|reference to craigslist,114,English,USA,R,,2011,5.7
+Color,George Clooney,421,101,40962534,Drama,The Ides of MarchÂ ,188652,governor|intern|manager|ohio|politics,288,English,USA,R,12500000,2011,7.1
+Color,Jodie Foster,276,91,958319,Drama,The BeaverÂ ,39764,beaver puppet|depression|dysfunctional family|puppet|speech,148,English,USA,PG-13,21000000,2011,6.7
+Color,Jake Kasdan,286,97,100292856,Comedy,Bad TeacherÂ ,160418,boob job|breast enlargement|breast surgery|cheating on a test|ejaculation,296,English,USA,R,20000000,2011,5.7
+Color,Kenneth Lonergan,116,186,46495,Drama,MargaretÂ ,12053,accident|bus|loss of virginity|new york city|virginity,119,English,USA,R,14000000,2011,6.5
+Color,Miguel Arteta,212,87,6857503,Comedy,Cedar RapidsÂ ,32697,award|cedar rapids iowa|convention|hotel|insurance,85,English,USA,R,,2011,6.3
+Color,Tom Brady,49,97,2331318,Comedy,Bucky Larson: Born to Be a StarÂ ,9541,diner|eating a banana|masturbation|porn star|shooting a pornographic movie,64,English,USA,R,10000000,2011,3.3
+Color,Rodrigo GarcÃ­a,222,113,3014541,Drama,Albert NobbsÂ ,19616,19th century|hotel|painter|waiter|woman pretending to be a man,98,English,UK,R,8000000,2011,6.7
+Color,Steve McQueen,486,101,4000304,Drama,ShameÂ ,145395,female frontal nudity|female nudity|male nudity|sex addict|sex addiction,375,English,UK,NC-17,6500000,2011,7.3
+Color,Henry Joost,251,94,104007828,Horror,Paranormal Activity 3Â ,76828,animate object|imaginary friend|reference to macgyver|whispering|woman wearing only a man's shirt,314,English,USA,R,5000000,2011,5.8
+Color,Gabriela Tagliavini,4,87,,Comedy,Without MenÂ ,1427,bare chested male|journalist|passion|pregnancy|woman in underwear,12,English,USA,R,4700000,2011,3.2
+Color,Alex Kendrick,34,129,34522221,Drama,CourageousÂ ,15401,faith|fatherhood|integrity|police|responsibility,175,English,USA,PG-13,2000000,2011,7
+Color,Vera Farmiga,68,109,841206,Drama,Higher GroundÂ ,2603,1960s|belief in the afterlife|domestic violence|faith|minister,34,English,USA,R,,2011,6.3
+Color,Deryck Broom,7,87,,Animation,The Lion of JudahÂ ,458,animal|donkey|lamb|pig|rooster,3,English,USA,PG,15000000,2011,3.7
+Color,Justin Thomas Ostensen,18,99,,Thriller,Below ZeroÂ ,652,,11,English,Canada,R,1200000,2011,4.5
+Color,Andrew Erwin,40,107,5355847,Drama,October BabyÂ ,6110,abortion|anti choice|christian preach|malpractice|unprofessional conduct,82,English,USA,PG-13,,2011,6.8
+Color,Kat Coiro,18,100,20186,Comedy,L!fe HappensÂ ,6025,friendship|los angeles california|one night stand|roommate|single mother,15,English,USA,R,930000,2011,5.7
+Color,Maryam Keshavarz,76,107,439958,Drama,CircumstanceÂ ,6277,closeted lesbian|iranian|islamophobia|propaganda|teenager,43,Persian,France,R,,2011,5.9
+Color,Ti West,292,101,77501,Horror,The InnkeepersÂ ,27260,bathtub|dead body in a bathtub|dead body in bathtub|hotel|inn,247,English,USA,R,750000,2011,5.5
+Color,Matt Walsh,8,87,,Comedy,High RoadÂ ,1305,,3,English,USA,R,,2011,5.4
+Color,Brandon Trost,66,82,40557,Comedy,The FPÂ ,1389,abbreviation in title|based on short film|competition dancing|dystopia|location in title,22,English,USA,R,60000,2011,5.6
+Color,Jay Roach,255,85,86897182,Comedy,The CampaignÂ ,106790,campaigning|congressman|north carolina|title at the end|u.s. congressman,177,English,USA,R,95000000,2012,6.2
+Color,Sean Anders,157,116,36931089,Comedy,That's My BoyÂ ,70681,argument|reference to vanilla ice|statutory rape|teacher student relationship|teacher student sex,198,English,USA,R,70000000,2012,5.6
+Color,Jon Hurwitz,291,113,56724080,Comedy,American ReunionÂ ,172112,bikini|female female kiss|high school reunion|outdoor sex|upskirt,181,English,USA,R,50000000,2012,6.7
+Color,Paul Thomas Anderson,546,144,16377274,Drama,The MasterÂ ,105144,drifter|past life regression|psychological testing|right hand man|scientology,405,English,USA,R,32000000,2012,7.1
+Color,Judd Apatow,285,134,67523385,Comedy,This Is 40Â ,104005,40th birthday|aging|birthday|sex|viagra,248,English,USA,R,35000000,2012,6.2
+Color,David Wain,163,98,17225675,Comedy,WanderlustÂ ,62198,childbirth|female frontal nudity|nude protest|nudist|skinny dipping,139,English,USA,R,,2012,5.6
+Color,Bobby Farrelly,162,92,44328238,Comedy,The Three StoogesÂ ,25484,mule|nun|orphanage|tennis court|the three stooges,189,English,USA,PG,,2012,5.1
+Color,Andrew Adamson,73,91,12495865,Fantasy,Cirque du Soleil: Worlds AwayÂ ,7100,aerialist|circus|cirque du soleil|clown|surrealism,35,English,USA,PG,,2012,6.8
+Color,Daniel Barnz,102,121,5308553,Drama,Won't Back DownÂ ,5147,children|inner city|parent|school|teacher,37,English,USA,PG,,2012,6.4
+Color,RZA,208,107,15608545,Action,The Man with the Iron FistsÂ ,53471,blacksmith|box office flop|chop socky|critically bashed|village,224,English,USA,R,15000000,2012,5.4
+Color,Gus Van Sant,242,106,7556708,Drama,Promised LandÂ ,30284,corporate greed|corporation|natural gas|salesman|small town,102,English,USA,R,15000000,2012,6.6
+Color,Jeff Nichols,368,130,21589307,Drama,MudÂ ,135286,14 year old|boat|bounty hunter|boy|river,261,English,USA,PG-13,10000000,2012,7.4
+Color,Henry Joost,248,96,53884821,Horror,Paranormal Activity 4Â ,51204,boy in a bathtub|demon|laptop computer|pulled underwater|walking in the dark,247,English,USA,R,5000000,2012,4.6
+Color,Chris Stokes,14,81,,Horror,No VacancyÂ ,1561,motel|psychopath|psychopathic killer|road trip|vomiting,21,English,USA,R,4000000,2012,4.2
+Color,Thomas Vinterberg,349,115,610968,Drama,The HuntÂ ,170155,deer|gun|gunshot|hunt|kindergarten teacher,249,Danish,Denmark,R,3800000,2012,8.3
+Color,Tim Heidecker,82,93,200803,Comedy,Tim and Eric's Billion Dollar MovieÂ ,7988,film in film|man with glasses|reference to steven spielberg|self referential|shopping mall,71,English,USA,R,3000000,2012,5.3
+Color,Dinesh D'Souza,30,87,33349949,Documentary,2016: Obama's AmericaÂ ,9010,critically bashed|partisan commentary|political propoganda|punctuation in title|reenactment,199,English,USA,PG,2500000,2012,5.1
+Color,William Brent Bell,225,83,53245055,Horror,The Devil InsideÂ ,30570,critically bashed|demonic possession|exorcism|exorcist|found footage,290,English,USA,R,1000000,2012,4.2
+Color,David DeCoteau,7,83,,Horror,Snow White: A Deadly SummerÂ ,634,reference to snow white|sleeping bag|stepmother stepdaughter relationship|strangulation|totem pole,14,English,USA,PG-13,1000000,2012,2.2
+Color,Jamie Travis,115,88,1243961,Comedy,"For a Good Time, Call...Â ",13421,friend|friendship|gay|phone sex|sex,34,English,USA,R,850000,2012,6
+Color,Ava DuVernay,37,97,78030,Drama,Middle of NowhereÂ ,1034,,10,English,USA,R,200000,2012,6.5
+Color,Dennis Dugan,139,101,133668525,Comedy,Grown Ups 2Â ,107817,belching|number in title|party|reference to nicki minaj|sneezing,255,English,USA,PG-13,80000000,2013,5.4
+Color,Shawn Levy,246,125,44665963,Comedy,The InternshipÂ ,159931,actor's picture shown in credits|animated credits|google|internship|still images in end credits,281,English,USA,PG-13,58000000,2013,6.3
+Color,Adam McKay,272,143,2175312,Comedy,Anchorman 2: The Legend ContinuesÂ ,131227,fame|father son relationship|interracial kiss|interracial relationship|interracial sex,346,English,USA,PG-13,50000000,2013,6.3
+Color,Justin Zackham,133,89,21784432,Comedy,The Big WeddingÂ ,37493,adoption|divorce|family relationships|farce|wedding,108,English,USA,R,35000000,2013,5.6
+Color,Don Scardino,260,100,22525921,Comedy,The Incredible Burt WonderstoneÂ ,60596,magic|magic kit|magician|stage magician|vegas,158,English,USA,PG-13,30000000,2013,5.9
+Color,John Wells,322,121,37738400,Drama,August: Osage CountyÂ ,67797,based on play|incestuous relationship|pedophilia|secret|teenage daughter,285,English,USA,R,25000000,2013,7.3
+Color,Malcolm D. Lee,153,88,32014289,Comedy,Scary Movie 5Â ,50337,2010s|ape|ballet|psychic|supernatural,177,English,USA,PG-13,20000000,2013,3.5
+Color,Danny Pang,23,107,,Action,Out of InfernoÂ ,625,,4,Chinese,China,PG-13,,2013,5.7
+Color,Woody Allen,415,98,33404871,Drama,Blue JasmineÂ ,150082,congenital liar|mental breakdown|self deception|snob|talking to oneself,384,English,USA,PG-13,18000000,2013,7.3
+Color,Jason Reitman,217,111,13362308,Drama,Labor DayÂ ,31898,baseball|baseball practice|escaped convict|neighbor|tied to a chair,111,English,USA,PG-13,18000000,2013,6.9
+Color,Fede Alvarez,543,96,54239856,Horror,Evil DeadÂ ,125016,book of the dead|demon|h.p. lovecraft|lesbian kiss|promise,789,English,USA,R,17000000,2013,6.5
+Color,Jeff Tremaine,157,102,101978840,Comedy,Bad GrandpaÂ ,77724,child beauty pageant|grandson|hidden camera|jackass|road trip,162,English,USA,R,15000000,2013,6.6
+Color,Jon Lucas,168,93,25675765,Comedy,21 & OverÂ ,60407,21st birthday|college student|drunken man|pubic hair|standing up to father,84,English,USA,R,13000000,2013,5.9
+Color,Elizabeth Banks,180,94,8828771,Comedy,Movie 43Â ,79146,awkwardness|embarrassment|gross out|irreverence|shame,352,English,USA,R,6000000,2013,4.3
+Color,David E. Talbert,52,96,21564616,Comedy,Baggage ClaimÂ ,7098,woman wearing only a man's shirt,41,English,USA,PG-13,8500000,2013,5
+Color,David Gordon Green,232,117,371897,Drama,JoeÂ ,36494,alcoholic|cigarette smoking|father son relationship|teenage boy|woods,118,English,USA,R,4000000,2013,6.9
+Color,Jorge RamÃ­rez SuÃ¡rez,26,120,100412,Drama,"Buen DÃ­a, RamÃ³nÂ ",2112,,7,German,Mexico,PG-13,4000000,2013,7.7
+Color,Craig Moss,29,80,,Comedy,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon TattooÂ ,2978,exorcism|female nudity|haunted house|lesbian kiss|masturbation,13,English,USA,R,3000000,2013,2.6
+ Black and White,Pawel Pawlikowski,269,82,3826455,Drama,IdaÂ ,34643,convent|jew|jewish|nun|poland,123,Polish,Poland,PG-13,,2013,7.4
+Color,Catherine Hardwicke,18,99,2843,Thriller,PlushÂ ,2895,gay interest|guitarist|obsessed fan|seduction|sex scene,24,English,USA,R,,2013,5.4
+Color,David Hunt,1,112,,Horror,Living Dark: The Story of Ted the CaverÂ ,28,brother|cave|caver|dark|funeral,1,English,USA,PG-13,1750000,2013,6.3
+Color,Joe Marino,9,76,,Horror,The Vatican ExorcismsÂ ,332,,10,English,Italy,R,1100000,2013,2.6
+Color,Gia Coppola,117,100,750100,Drama,Palo AltoÂ ,19752,girls' soccer|high school|high school student|soccer coach|teenager,61,English,USA,R,,2013,6.3
+Color,Tommy Oliver,6,90,,Drama,1982Â ,122,number in title|semi autobiographical,3,English,USA,R,1000000,2013,7.1
+Color,Sam Martin,1,66,,Documentary,UnDividedÂ ,6,,1,English,USA,PG,250000,2013,7.8
+Color,Chad Hartigan,34,83,,Drama,This Is Martin BonnerÂ ,733,estranged daughter|friendship|nevada|prisoner|unlikely friendship,7,English,USA,R,42000,2013,6.6
+Color,Evan Goldberg,293,112,6105175,Comedy,The InterviewÂ ,247020,assassination attempt|communist dictatorship|dictator|exploding helicopter|finger bitten off,835,English,USA,R,44000000,2014,6.6
+Color,Bobby Farrelly,218,109,86208010,Comedy,Dumb and Dumber ToÂ ,97045,adoption|highway travel|road trip|sequel|stupidity,285,English,USA,PG-13,35000000,2014,5.7
+Color,Jake Kasdan,201,94,38543473,Comedy,Sex TapeÂ ,84382,sex in a car|sex video|sexual desire|sexuality|undressing,158,English,USA,R,40000000,2014,5.1
+Color,Ben Falcone,148,100,84518155,Comedy,TammyÂ ,35965,alcoholic|grandmother|highway travel|niagara falls|on the road,144,English,USA,R,20000000,2014,4.9
+Color,Tom Walsh,2,98,,Animation,Dwegons and LeprechaunsÂ ,50,dwegons,3,English,USA,PG,20000000,2014,4.8
+Color,Nicholas Stoller,351,97,150056505,Comedy,NeighborsÂ ,216581,broken leg|friendship|jewish|topless female nudity|urination,397,English,USA,R,18000000,2014,6.4
+Color,Luke Greenfield,129,104,82389560,Comedy,Let's Be CopsÂ ,106820,friendship between men|impersonating a police officer|mobster|party|police officer,147,English,USA,R,17000000,2014,6.5
+Color,Mike Binder,91,121,21569041,Drama,Black or WhiteÂ ,8058,color in title,57,English,USA,PG-13,9000000,2014,6.6
+Color,Claudia Llosa,56,97,52961,Drama,AloftÂ ,2103,,11,English,Spain,R,8000000,2014,5.3
+Color,Richard Glatzer,309,101,18656400,Drama,Still AliceÂ ,86077,alzheimer's disease|bechdel test passed|linguistics professor|new york city|reference to angels in america the play,195,English,USA,PG-13,5000000,2014,7.5
+Color,Andrew Erwin,49,98,10429707,Comedy,Moms' Night OutÂ ,10483,blogger|pastor|reference to the shawshank redemption|taser|tasered,125,English,USA,PG,5000000,2014,5.4
+Color,Richard Linklater,548,165,25359200,Drama,BoyhoodÂ ,266020,12 year time span|coming of age|domestic abuse|growing up|separated parents,836,English,USA,R,4000000,2014,8
+Color,Yimou Zhang,85,109,377420,Drama,Coming HomeÂ ,2789,amnesia|cultural revolution|husband wife relationship|memory|political prisoner,20,Mandarin,China,PG-13,,2014,7.3
+Color,David Wain,98,83,,Comedy,They Came TogetherÂ ,16987,halloween party|new york city|racism|romcom|spoof,85,English,USA,R,,2014,5.5
+Color,Jason Stone,48,108,,Thriller,The CallingÂ ,6025,bouquet|house fire|praying|serial killer|tied to a chair,28,English,USA,R,,2014,5.8
+Color,Kief Davidson,43,93,100240,Documentary,A Lego BrickumentaryÂ ,1220,artist|denmark|lego|toy|toy company,11,English,Denmark,G,1000000,2014,6.8
+Color,David DeCoteau,1,84,,Western,Doc Holliday's RevengeÂ ,93,1880s|cowboy|low budget film|shoot out|wild west,6,English,USA,PG-13,1000000,2014,3.8
+,Jonathan Meyers,1,111,,Drama,A Fine StepÂ ,207,,1,,USA,PG,1000000,2014,5.3
+Color,Joe Kenemore,,52,,Documentary,Rise of the Entrepreneur: The Search for a Better WayÂ ,78,business|entrepreneur|network marketing,10,English,USA,G,450000,2014,8.2
+Color,Bruce Dellis,10,95,2468,Thriller,Locker 13Â ,241,digit in title|latino|life or death|philosophy|supernatural,5,English,USA,R,300000,2014,4.8
+Color,Joel Paul Reisig,1,108,,Family,Horse CampÂ ,25,,1,English,USA,PG,250000,2014,6.6
+Color,Jason Stone,48,108,,Thriller,The CallingÂ ,6025,bouquet|house fire|praying|serial killer|tied to a chair,28,English,USA,R,,2014,5.8
+Color,Sai Varadan,3,89,,Drama,An American in HollywoodÂ ,100,place name in title,3,English,USA,R,125000,2014,7.2
+Color,Stephen Langford,2,82,,Family,"Dude, Where's My Dog?!Â ",73,,4,English,USA,PG,20000,2014,3.2
+Color,Seth MacFarlane,280,125,81257500,Comedy,Ted 2Â ,117739,baby|f word|fight|lawyer|marriage,229,English,USA,R,68000000,2015,6.4
+Color,Ken Scott,90,91,10214013,Comedy,Unfinished BusinessÂ ,23072,business trip|company|glory hole|male frontal nudity|male nudity,89,English,USA,R,35000000,2015,5.4
+Color,Jessie Nelson,97,107,26284475,Comedy,Love the CoopersÂ ,9051,christmas|family dinner|husband wife conflict|husband wife kiss|large family,68,English,USA,PG-13,17000000,2015,5.7
+Color,Lenny Abrahamson,421,118,14677654,Drama,RoomÂ ,161288,based on novel|escape|imprisonment|kidnapping|mother son relationship,351,English,Ireland,R,13000000,2015,8.3
+Color,Timothy Hines,1,111,14616,Drama,10 Days in a MadhouseÂ ,314,,10,English,USA,R,12000000,2015,7.5
+Color,Ari Sandel,132,101,34017854,Comedy,The DUFFÂ ,51326,cartoon on tv|generation y|high school|overalls|strong female character,116,English,USA,PG-13,8500000,2015,6.5
+Color,Michael Polish,12,121,4700361,Drama,90 Minutes in HeavenÂ ,2047,heaven|hospital|praying|pronounced dead|recovery,29,English,USA,PG-13,5000000,2015,4.6
+Color,Mitch Davis,6,95,,Comedy,Christmas EveÂ ,1091,,15,English,USA,PG,,2015,5.1
+Color,Peter DeLuise,5,85,,Comedy,R.L. Stine's Monsterville: The Cabinet of SoulsÂ ,917,cabinet|carnival|halloween|soul|temptress,4,English,USA,PG,4400000,2015,5.9
+Color,John Maclean,246,84,229094,Western,Slow WestÂ ,27650,american west|bounty hunter|frontier|horse riding|outlaw,88,English,UK,R,,2015,6.9
+Color,Christian Sesma,6,82,,Thriller,AWOL-72Â ,520,police officer|police officer taken hostage,8,English,USA,R,3000000,2015,3.9
+Color,Jon Gunn,11,120,12985267,Drama,Do You Believe?Â ,4977,belief|faith|pastor|question in title|three word title,63,English,USA,PG-13,2300000,2015,5.9
+Color,Roland Emmerich,74,129,186354,Drama,StonewallÂ ,1758,box office flop|critically bashed|gay rights|new york city|stonewall riots,30,English,USA,R,13500000,2015,4.5
+Color,Jamal Hill,10,89,444044,Drama,Brotherly LoveÂ ,744,basketball|burglary|police|robbery|teenage girl,19,English,USA,R,1900000,2015,7.2
+Color,Jay Alaimo,9,84,,Horror,The Wicked WithinÂ ,742,after dark horrorfest,7,English,USA,R,1200000,2015,4.6
+Color,Robert Hall,39,95,,Horror,Fear ClinicÂ ,6256,bare breasts|based on web series|claustrophobia|doctor|phobia,19,English,USA,R,1000000,2015,5.2
+Color,Alec Asten,1,82,,Action,Diamond RuffÂ ,53,prison|prisoner|reverend|terminal illness|two word title,5,English,USA,R,500000,2015,4.3
+Color,Valentine,,,,Romance,Romantic SchemerÂ ,172,,,English,USA,PG-13,125000,2015,5.1
+Color,Ben Stiller,226,102,28837115,Comedy,Zoolander 2Â ,34964,chosen one|fashion|fashion model|model|retired,150,English,USA,PG-13,50000000,2016,4.8
+Color,Nicholas Stoller,177,92,55291815,Comedy,Neighbors 2: Sorority RisingÂ ,28041,bare chested male|gay|gay best friend|gay man|gay marriage proposal,111,English,USA,R,35000000,2016,6
+Color,Ben Falcone,154,99,63034755,Comedy,The BossÂ ,16984,business|girl scouts|orphanage|overweight woman|quitting a job,96,English,USA,R,29000000,2016,5.3
+Color,Susanna White,134,108,3108216,Thriller,Our Kind of TraitorÂ ,2587,based on novel|male frontal nudity|male nudity|male rear nudity,21,English,UK,R,,2016,6.4
+Color,Jon Lucas,81,100,55461307,Comedy,Bad MomsÂ ,4654,lesbian kiss|mom|pta|reference to mad max|scene during end credits,46,English,USA,R,20000000,2016,6.7
+Color,James Schamus,63,110,560512,Drama,IndignationÂ ,550,based on novel,3,Hebrew,USA,R,,2016,7.8
+Color,Cyrus Nowrasteh,24,111,6462576,Drama,The Young MessiahÂ ,1449,based on novel,30,English,USA,PG-13,18500000,2016,5.4
+Color,Jon Lucas,81,100,55461307,Comedy,Bad MomsÂ ,4654,lesbian kiss|mom|pta|reference to mad max|scene during end credits,46,English,USA,R,20000000,2016,6.7
+Color,Patricia Riggen,63,109,61693523,Drama,Miracles from HeavenÂ ,6276,child cancer|christian film|christianity|falling into a hole|inspiring,55,English,USA,PG,13000000,2016,6.8
+Color,Dan Mazer,158,109,35537564,Comedy,Dirty GrandpaÂ ,49671,female removes her clothes|fondling|voyeur|voyeurism|white panties,166,English,USA,R,11500000,2016,6
+Color,Justin Tipping,6,80,,Adventure,KicksÂ ,59,,6,English,USA,R,,2016,7.8
+Color,Bruce Beresford,5,104,,Drama,Mr. ChurchÂ ,63,,5,English,USA,PG-13,8000000,2016,8
+Color,Michael Winnick,15,106,,Action,Code of HonorÂ ,662,gun|mayor|nightclub|police|vigilantism,14,English,USA,R,8000000,2016,4.2
+Color,David F. Sandberg,159,81,56536016,Horror,Lights OutÂ ,13523,based on short film|reference to avenged sevenfold|reference to slayer|switching lights on and off|two word title,95,English,USA,PG-13,4900000,2016,6.9
+Color,Michael Tiddes,59,92,11675178,Comedy,Fifty Shades of BlackÂ ,9509,color in title|parody|reference to cuba gooding jr|reference to netflix|written by star,53,English,USA,R,5000000,2016,3.5
+Color,Phil Joanou,39,93,,Horror,The VeilÂ ,4146,documentary crew|mass suicide|survivor|tied feet|tied up while barefoot,29,English,USA,R,4000000,2016,4.7
+Color,Alex Ranarivelo,9,101,,Drama,The Dog LoverÂ ,162,,8,English,USA,PG,2000000,2016,4.8
+Color,Harold Cronk,29,120,20773070,Drama,God's Not Dead 2Â ,4501,alternate universe|christian|christian film|christianity|manipulation,102,English,USA,PG,5000000,2016,3.4
+Color,Joel Paul Reisig,1,108,,Family,Rodeo GirlÂ ,62,,4,English,USA,PG,500000,2016,5.7
